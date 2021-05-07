@@ -1,0 +1,62 @@
+body{
+    font-family: 'Coda', cursive;
+    background-color: rgb(43, 41, 41);
+    font-size: 20px;
+}
+h1{
+    background-color: rgb(220, 223, 52);
+    text-align: center;
+}
+p{
+    font-size: 1.2em;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    margin-top: 3em;
+    text-align: center;
+}
+.js{
+    color: rgb(209, 209, 29);
+    text-decoration: underline;
+}
+.link{
+    margin: 0 2em;
+    color: white;
+    text-align: center;
+}
+.active{
+    color: yellow;
+}
+.block1{
+    background-color: black;
+    width: 1000px;
+    margin: 30px auto;
+    padding: 1px;
+}
+.block2{
+    background-color: rgba(122, 122, 45, 0.705);
+    width: 940px;
+    margin: 30px auto;
+    padding: 1px;
+    border-radius: 20px;
+}
+.block3{
+    border: solid 1px yellow;
+    width: 900px;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+.ajax-title{
+    font-size: 30px;
+    font-family: 'Coda', cursive;
+    letter-spacing: 25px;
+    color: yellow;
+}
+.p-block{
+    background-color: rgb(204, 204, 146);
+    width: 850px;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+span{
+    color: black;
+}

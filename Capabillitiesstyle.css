@@ -1,0 +1,70 @@
+body{
+    font-family: 'Coda', cursive;
+    background-color: rgb(43, 41, 41);
+    font-size: 20px;
+}
+h1{
+    background-color: rgb(220, 223, 52);
+    text-align: center;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: 1.2em;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    margin-top: 3em;
+    text-align: center;
+}
+h3{
+    color: white;
+}
+.js{
+    color: rgb(209, 209, 29);
+    text-decoration: underline;
+}
+.link{
+    margin: 0 2em;
+    color: white;
+    text-align: center;
+}
+.active{
+    color: yellow;
+}
+.block1{
+    margin-top: 2em;
+    background-color: black;
+    border: solid yellow .1em;
+    width: 70em;
+    margin: 2em auto;
+    padding: 30px;
+}
+.block2{
+    background-color: rgb(78, 68, 68);
+    margin: .3em auto;
+    padding: 9px;
+    color: white;
+}
+#capabillities1{
+    background-color: grey;
+    padding: 20px;
+    margin: 30px auto;
+}
+#capabillities2{
+    background-color: rgb(90, 83, 83);
+    padding: 10px;
+    color: white;
+}
+#capabillities3{
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 16px auto;
+}
+.jsbook{
+    background-color: yellow;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
